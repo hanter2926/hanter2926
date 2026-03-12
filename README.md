@@ -1,4 +1,4 @@
-<div align="center" background>
+<div align="center" style="background-color: aquamarine;>
 
 # 👋 Hi, I'M Vikram Pal  
 
