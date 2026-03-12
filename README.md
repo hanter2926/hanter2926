@@ -4,7 +4,7 @@
 # 🧡 I N 🤍 D I 💚 A
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Passionate+Problem+Solver;Future+Software+Engineer+vikram" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Passionate+Problem+Solver;Future+Software+Engineer+vikram"/>
 
 <br><br>
 
