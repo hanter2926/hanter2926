@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" background>
 
 # 👋 Hi, I'M Vikram Pal  
 
@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="500"/>
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="420" style="border-radius: 20px;"/>
 
 </div>
 
