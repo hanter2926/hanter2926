@@ -1,31 +1,145 @@
-<div align="center">
+# 👋 Hi, I'm Vikram Pal
 
-# 👋 Hi, I'M Vikram Pal 
-# 🧡 I N 🤍 D I 💚 A 🌍
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Passionate+Problem+Solver;Future+Software+Engineer+vikram"/>
-
-<br><br>
-
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="420" style="border-radius: 20;"/>
-
-</div>
-
-
-- 📫 How to reach me **vikrampal803302@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vikram-kumar-857765319/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikram-kumar-857765319/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/803302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="803302" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Python+%7C+Django+%7C+AI+%26+ML;Building+Projects+and+Learning+Every+Day;Turning+Ideas+Into+Real+Projects+🚀" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hanter2926&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanter2926&show_icons=true&locale=en&layout=compact" alt="hanter2926" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanter2926&show_icons=true&locale=en" alt="hanter2926" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanter2926&" alt="hanter2926" /></p>
+🎓 BCA student specializing in **Artificial Intelligence & Machine Learning**
+
+🐍 Learning and building projects with **Python**
+
+🌐 Developing modern web applications using **Django**
+
+🤖 Interested in **Artificial Intelligence, Machine Learning & Data Analytics**
+
+🛒 Building **Django E-Commerce Projects**
+
+📚 Continuously learning new technologies and improving my coding skills
+
+🚀 My goal is to build useful and real-world applications
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,bootstrap" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Django E-Commerce Website
+
+A dynamic e-commerce web application built with Django.
+
+**Features:**
+
+- 🛍️ Product Management
+- 🗂️ Product Categories
+- 🛒 Add to Cart
+- ❤️ Wishlist
+- 💳 Checkout
+- 💰 Razorpay Test Payment Integration
+- 👤 User Authentication
+- 🔐 Django Admin Panel
+- 📱 Responsive UI
+- 🔗 Clickable Product Cards
+
+**Tech Stack:**
+
+`Python` `Django` `SQLite` `HTML` `CSS` `Bootstrap` `JavaScript` `Razorpay`
+
+---
+
+### 🤖 Education AI
+
+An AI-based educational project focused on helping students learn and interact with educational content.
+
+**Tech Stack:**
+
+`Python` `Django` `AI/ML`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanter2926&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanter2926&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hanter2926&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Improve Python skills
+- [ ] Learn Advanced Django
+- [ ] Build more real-world projects
+- [ ] Improve Data Analytics skills
+- [ ] Learn Machine Learning deeply
+- [ ] Build AI-powered applications
+- [ ] Contribute to Open Source
+- [ ] Become industry-ready as a developer
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Python
+   ↓
+Django
+   ↓
+SQL & Database
+   ↓
+Data Analytics
+   ↓
+Machine Learning
+   ↓
+Artificial Intelligence
