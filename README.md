@@ -12,6 +12,7 @@
   <a href="https://github.com/hanter2926">
     <img src="https://img.shields.io/github/followers/hanter2926?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
   </a>
+
   <a href="https://github.com/hanter2926?tab=repositories">
     <img src="https://img.shields.io/github/stars/hanter2926?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
   </a>
@@ -67,7 +68,12 @@
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-`NumPy` • `Pandas` • `Matplotlib` • `Machine Learning`
+<p>
+  <code>NumPy</code> •
+  <code>Pandas</code> •
+  <code>Matplotlib</code> •
+  <code>Machine Learning</code>
+</p>
 
 ### 🔧 Tools & Technologies
 
@@ -117,16 +123,17 @@ An AI-based educational project designed to help students interact with educatio
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanter2926&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanter2926&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hanter2926&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hanter2926&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanter2926&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -134,15 +141,22 @@ An AI-based educational project designed to help students interact with educatio
 # 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
 
-# 📈 My GitHub Activity
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanter2926&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hanter2926&theme=tokyo-night&hide_border=true"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
