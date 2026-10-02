@@ -12,7 +12,6 @@
   <a href="https://github.com/hanter2926">
     <img src="https://img.shields.io/github/followers/hanter2926?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
   </a>
-
   <a href="https://github.com/hanter2926?tab=repositories">
     <img src="https://img.shields.io/github/stars/hanter2926?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
   </a>
@@ -22,23 +21,15 @@
 
 ## 🧑‍💻 About Me
 
-🎓 BCA student specializing in **Artificial Intelligence & Machine Learning**
-
-🐍 Passionate about **Python Development**
-
-🌐 Building web applications using **Django**
-
-🤖 Exploring **Artificial Intelligence & Machine Learning**
-
-📊 Learning **Data Analytics & Data Science**
-
-🛒 Building **Django-based E-Commerce Applications**
-
-💡 Interested in turning ideas into practical, real-world projects
-
-📚 Continuously learning and improving my programming skills
-
-🚀 My goal is to become an **industry-ready software developer**
+* 🎓 BCA Student specializing in **Artificial Intelligence & Machine Learning**
+* 🐍 Passionate about **Python Development**
+* 🌐 Building web applications using **Django**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
+* 📊 Learning **Data Analytics & Data Science**
+* 🛒 Building **Django-based E-Commerce Applications**
+* 💡 Interested in developing real-world projects
+* 📚 Continuously learning and improving programming skills
+* 🚀 My goal is to become an **industry-ready software developer**
 
 ---
 
@@ -47,7 +38,7 @@
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js" />
 </p>
 
 ### 🌐 Web Development
@@ -59,10 +50,10 @@
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
 </p>
 
-### 🤖 AI & Data
+### 🤖 AI & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
@@ -91,24 +82,21 @@ A dynamic and responsive e-commerce web application developed using Django.
 
 ### ✨ Features
 
-- 🛍️ Product Management
-- 🗂️ Dynamic Product Categories
-- 🔎 Product Details
-- 🛒 Add to Cart
-- ❤️ Wishlist
-- 💳 Checkout System
-- 💰 Razorpay Test Payment Integration
-- 👤 User Authentication
-- 🔐 Django Admin Panel
-- 📱 Responsive Design
-- 🔗 Clickable Product Cards
-- 📦 Order Management
+* 🛍️ Product Management
+* 🗂️ Dynamic Product Categories
+* 🔎 Product Details
+* 🛒 Add to Cart
+* ❤️ Wishlist
+* 💳 Checkout System
+* 💰 Razorpay Test Payment Integration
+* 👤 User Authentication
+* 🔐 Django Admin Panel
+* 📱 Responsive Design
+* 📦 Order Management
 
 ### 🧰 Technologies
 
 `Python` `Django` `SQLite` `HTML` `CSS` `Bootstrap` `JavaScript` `Razorpay`
-
----
 
 ## 🤖 Education AI
 
@@ -123,17 +111,8 @@ An AI-based educational project designed to help students interact with educatio
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hanter2926&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanter2926&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanter2926&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanter2926&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
 ---
@@ -141,10 +120,7 @@ An AI-based educational project designed to help students interact with educatio
 # 🐍 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -152,28 +128,24 @@ An AI-based educational project designed to help students interact with educatio
 # 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hanter2926&theme=tokyo-night&hide_border=true"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanter2926&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
 # 🎯 2026 Goals
 
-- [ ] Improve Python skills
-- [ ] Learn Advanced Django
-- [ ] Master SQL & Databases
-- [ ] Improve Data Analytics skills
-- [ ] Learn Machine Learning deeply
-- [ ] Learn Artificial Intelligence
-- [ ] Build AI-powered applications
-- [ ] Build more real-world projects
-- [ ] Contribute to Open Source
-- [ ] Improve Problem Solving
-- [ ] Become industry-ready as a developer
+* [ ] Improve Python skills
+* [ ] Learn Advanced Django
+* [ ] Master SQL & Databases
+* [ ] Improve Data Analytics skills
+* [ ] Learn Machine Learning deeply
+* [ ] Learn Artificial Intelligence
+* [ ] Build AI-powered applications
+* [ ] Build more real-world projects
+* [ ] Contribute to Open Source
+* [ ] Improve Problem Solving
+* [ ] Become industry-ready as a developer
 
 ---
 
@@ -195,3 +167,14 @@ Machine Learning
 Artificial Intelligence
    ↓
 AI-Powered Applications
+```
+
+---
+
+<p align="center">
+  <b>💻 Code → 📚 Learn → 🚀 Build → 🔥 Improve</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile! ⭐
+</p>
