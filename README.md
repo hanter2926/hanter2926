@@ -1,18 +1,14 @@
-<!-- ======================= PROFILE HEADER ======================= -->
-
 <div align="center">
 
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm Vikram Pal
 
 ### 💻 BCA Student | Full Stack Developer | Tech Enthusiast
 
-Building projects • Learning new technologies • Turning ideas into reality 🚀
+🚀 Building projects • Learning new technologies • Turning ideas into reality
 
 </div>
 
 ---
-
-<!-- ======================= ABOUT ======================= -->
 
 ## 👨‍💻 About Me
 
@@ -20,99 +16,77 @@ Building projects • Learning new technologies • Turning ideas into reality �
 - 💻 Aspiring Full Stack Developer
 - 🐍 Currently learning Python & Django
 - 🌐 Interested in Web Development
-- 🗄️ Learning Database Management
+- 🗄️ Interested in Database Management
 - 🤖 Exploring AI & Machine Learning
 - 🚀 Building practical projects to improve my development skills
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Overview
+# 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="48%">
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10">
 
 </div>
 
 ---
 
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
-
-## 📈 Contribution Activity
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%">
 
 </div>
 
 ---
 
-<!-- ======================= TECHNOLOGIES ======================= -->
+# 🛠️ Technologies & Languages
 
-## 🛠️ Technologies & Languages
+## 💻 Programming Languages
 
-### 💻 Programming Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript">
 </p>
 
-### 🎨 Frontend
+## 🎨 Frontend
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript">
 </p>
 
-### ⚙️ Backend
+## ⚙️ Backend
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=django,fastapi" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi">
 </p>
 
-### 🗄️ Database
+## 🗄️ Database
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite">
 </p>
 
-### 🔧 Tools
+## 🔧 Tools
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman">
 </p>
 
 ---
-
-<!-- ======================= PROJECTS ======================= -->
 
 # 🚀 Featured Projects
 
 ## 🛒 Easy Kart
 
-🔗 **Live Demo:** https://your-live-link.com
+🔗 **Live Demo:** YOUR_LIVE_LINK
 
 Django-based e-commerce platform featuring:
 
@@ -124,14 +98,17 @@ Django-based e-commerce platform featuring:
 - 📦 Orders
 - 👤 User Profiles
 
-### 📸 Screenshots
+### 📸 Project Preview
+
+<!-- 
+IMPORTANT:
+Upload your screenshot inside your GitHub repository.
+Example:
+assets/easy-kart.png
+-->
 
 <p align="center">
-
-<img src="images/easy-kart-home.png" width="30%" />
-<img src="images/easy-kart-category.png" width="30%" />
-<img src="images/easy-kart-profile.png" width="30%" />
-
+<img src="./assets/easy-kart.png" width="90%">
 </p>
 
 ---
@@ -152,12 +129,10 @@ Python-based REST API project built using:
 - 🗑️ Delete Records
 - 👨‍🎓 Student Management
 
-### 📸 Screenshot
+### 📸 Project Preview
 
 <p align="center">
-
-<img src="images/fastapi-crud.png" width="70%" />
-
+<img src="./assets/fastapi-crud.png" width="90%">
 </p>
 
 ---
@@ -178,7 +153,7 @@ Django-based inventory management system.
 
 ## 💼 My Portfolio
 
-🔗 **Live Portfolio:** https://your-portfolio-link.com
+🔗 **Live Portfolio:** YOUR_PORTFOLIO_LINK
 
 Personal portfolio website built using:
 
@@ -186,7 +161,7 @@ Personal portfolio website built using:
 - CSS
 - JavaScript
 
-Showcasing my:
+### Includes
 
 - 👨‍💻 Skills
 - 🚀 Projects
@@ -227,9 +202,7 @@ E-learning platform built using Django.
 
 ---
 
-<!-- ======================= CURRENT GOALS ======================= -->
-
-## 🎯 Current Goals
+# 🎯 Current Goals
 
 - 🐍 Master Python & Django
 - 🌐 Become a Full Stack Developer
@@ -241,53 +214,47 @@ E-learning platform built using Django.
 
 ---
 
-<!-- ======================= GITHUB PROFILE ======================= -->
-
-## 📊 GitHub Metrics
+# 📊 GitHub Profile
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="100%">
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" width="48%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" width="48%">
 
 </div>
 
 ---
 
-<!-- ======================= CONNECT ======================= -->
+# 🌐 Connect With Me
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/hanter2926">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B0ePnBau7St6gEL1uHdy9JA%3D%3D)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:vikrampal803302@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-## 🔥 Keep Coding! 💻
+# 🔥 Keep Coding! 💻
 
 ### Code → Learn → Build → Improve → Repeat 🚀
-
-<br>
 
 ### ⭐ Thanks for visiting my profile!
 
