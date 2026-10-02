@@ -26,13 +26,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=hanter2926&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hanter2926&theme=tokyonight&hide_border=true&border_radius=10" width="48%">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanter2926&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%">
 
 </div>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hanter2926&theme=tokyo-night&hide_border=true&area=true" width="100%">
 
 </div>
 
@@ -86,7 +86,7 @@
 
 ## 🛒 Easy Kart
 
-🔗 **Live Demo:** YOUR_LIVE_LINK
+🔗 **Live Demo:** `YOUR_LIVE_LINK`
 
 Django-based e-commerce platform featuring:
 
@@ -99,13 +99,6 @@ Django-based e-commerce platform featuring:
 - 👤 User Profiles
 
 ### 📸 Project Preview
-
-<!-- 
-IMPORTANT:
-Upload your screenshot inside your GitHub repository.
-Example:
-assets/easy-kart.png
--->
 
 <p align="center">
 <img src="./assets/easy-kart.png" width="90%">
@@ -153,7 +146,7 @@ Django-based inventory management system.
 
 ## 💼 My Portfolio
 
-🔗 **Live Portfolio:** YOUR_PORTFOLIO_LINK
+🔗 **Live Portfolio:** `YOUR_PORTFOLIO_LINK`
 
 Personal portfolio website built using:
 
@@ -218,13 +211,23 @@ E-learning platform built using Django.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanter2926&theme=tokyonight" width="100%">
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanter2926&theme=tokyonight" width="48%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanter2926&theme=tokyonight" width="48%">
+
+</div>
+
+---
+
+# 🐍 GitHub Contribution
+
+<div align="center">
+
+<img src="./dist/github-contribution-snake.svg" width="100%">
 
 </div>
 
@@ -234,7 +237,7 @@ E-learning platform built using Django.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/hanter2926">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
